@@ -1,0 +1,15 @@
+#input {
+  width: 100%;
+  padding: 0.25rem 0.5rem;
+  resize: none;
+  height: 6rem;
+  border-radius: 5px;
+}
+
+#output {
+  border: 1px solid grey;
+  border-radius: 5px;
+  background-color: goldenrod;
+  word-break: break-all;
+  padding: 0.25rem 0.5rem;
+}
